@@ -25,4 +25,4 @@ async def on_voice_state_update(member, before, after):
 
         
 
-bot.run("MTA3ODIyODkzNzY4MDg5MTk5NQ.GYYB6T.zTrhAQnryGOkluq6f5fjw1IjS4HQ164npQcYq8")
+bot.run("MTA3ODIyODkzNzY4MDg5MTk5NQ.G-LgYN.ZeCK3HxeKGyoRyd0iLvmej-YevPe2EQgwuwZUY")
